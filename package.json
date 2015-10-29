@@ -1,5 +1,5 @@
 {
-  "name": "google-spreadsheet-read",
+  "name": "dh-google-spreadsheet-read",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
